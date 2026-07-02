@@ -1,0 +1,1 @@
+This folder is for storing images to use as tokens on battlemaps.
