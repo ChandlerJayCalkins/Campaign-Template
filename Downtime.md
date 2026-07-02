@@ -668,7 +668,7 @@ Additionally, characters need a way to transport items they're selling so they c
 
 ***Resolution.*** If a character is selling items that have a price listed in the Player's Handbook (2024) chapter 6 or other official D&D source material, they sell for the price listed in the source material. If an item is worn, used, or partially damaged, it sells for half the listed price. For example, a bedroll that has been on several adventures or a piece of armor that has taken at least 1 hit could be considered worn. A worn piece of equipment can be made to sell for full price if it is repaired through the [Repairing an Item](#repairing-an-item) activity. The DM determines whether or not a piece of equipment is worn or not.
 
-The prices of items that don't have a price listing in any official D&D source material are determined by the DM. For items with multiple different price listings in D&D source material, the DM determines which price listing to use.
+The prices of items that don't have a price listing in any official D&D source material are determined by the DM. For items with multiple different price listings in D&D source material, the DM determines which price listing to use. Characters can also always choose to sell items for a lower price then the actual value of the item.
 
 Once a character sells an item, a buyer takes that item and pays them the price determined by the rules above.
 
@@ -697,13 +697,13 @@ Shopping is a common practice for adventurers. Spending gold on adventuring gear
 
 Note that this activity is only for buying non-magical items. See the [Buying a Magic Item](#buying-a-magic-item) activity above for the rules of buying a magic item during downtime.
 
-***Cost.*** Characters need access to vendors that are selling the kinds of items they are looking to buy. Characters can almost always find the vendors they need for standard adventuring gear and tools in cities and towns. The DM determines whether or not those items are available to buy. The character will also need the funds to purchase the items they're attempting to buy. The costs of common items and services can be found in the Player's Handbook (2024) chapter 6. For any items not listed there or in other D&D source material, the DM determines the price. For items with multiple different price listings in D&D source material, the DM determines which price to use.
+***Cost.*** Characters need access to vendors that are selling the kinds of items they are looking to buy. Characters can almost always find the vendors they need for standard adventuring gear and tools in cities and towns. The DM determines whether or not those items are available to buy. The character will also need the funds to purchase the items they're attempting to buy. The costs of common items and services can be found in the Player's Handbook (2024) chapter 6. For any items not listed there or in other D&D source material, the DM determines the price. For items with multiple different price listings in D&D source material, the DM determines which price to use. Characters can also choose to buy items for more than they're worth.
 
 Additionally, characters need a way to transport items they bought if they plan on bringing them home or somewhere else away from the vendor. If the character doesn't have the carrying capacity to carry the items on their own, they need some other way to transport the items. Examples could include a wagon or another character helping to carry the items. The DM determines whether a character has the means to transport the items they plan on buying.
 
 ***Resolution.*** Once a character buys an item or service, they pay the required price and are given that item or service.
 
-Characters can buy up to a maximum of 500 GP worth of items, or 50 different kinds of items in one day, whichever maximum is reached first. If an item costs more than 500 GP to buy, it takes 1 whole day to buy that item. 
+Characters can buy up to a maximum of 500 GP worth of items, or 50 different kinds of items in one day, whichever maximum is reached first. If an item costs more than 500 GP to buy, it takes 1 whole day to buy that item.
 
 ***Complications.*** Minor inconveniences can occur now and then when shopping. They typically arise from the quality of the item or disputes with vendors and other customers. Every day spent shopping brings a 2 percent chance of a complication, examples of which are on the Shopping Complications table.
 
