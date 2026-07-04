@@ -1,0 +1,1 @@
+This folder is for storing homebrew creations such as stat blocks, items, conditions, etc.
