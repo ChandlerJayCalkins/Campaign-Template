@@ -1,0 +1,1 @@
+This folder is for storing things like battlemap tokens, handouts, and maps.
