@@ -1,0 +1,1 @@
+This folder is for files that make up the current adventure being ran.
