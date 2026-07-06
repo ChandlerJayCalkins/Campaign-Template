@@ -1,8 +1,16 @@
 # Campaign Quests
 
 ## Quest Name
-### Description
-What is this quest about and what its secrets are.
+### Goal
+The objective of the quest.
+
+### Context
+What the players already know and any secrets of other things relevant to the quest.
+
+### Planned Events
+- Starting event
+- Next event
+- etc.
 
 ### Current State
 What are the current circumstances and recent events of this quest.
