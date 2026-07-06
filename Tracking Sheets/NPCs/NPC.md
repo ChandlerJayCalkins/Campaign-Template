@@ -2,6 +2,8 @@
 **Stat Block:** [Commoner](https://5e.tools/bestiary.html#commoner_xmm)
 <br>
 **MM Page:** 77
+<br>
+**Alignment:** Neutral
 
 ## Stat Block Alterations
 Deviations from the MM stat block. Common Changes:
