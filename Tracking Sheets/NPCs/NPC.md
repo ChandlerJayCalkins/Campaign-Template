@@ -20,5 +20,8 @@ Description of how the character looks, smells, sounds, feels, etc. Don't go int
 ## Personality
 Mannerisms and behaviors of the character.
 
+## Relevant Info
+Who is this person and what do they do?
+
 ## Secret
 Something that can help the players that they can earn if they interact with the NPC enough.
