@@ -18,7 +18,7 @@ Deviations from the MM stat block. Common Changes:
 Description of how the character looks, smells, sounds, feels, etc. Don't go into too much detail.
 
 ## Personality
-Manerisms and behaviors of the character.
+Mannerisms and behaviors of the character.
 
 ## Secret
 Something that can help the players that they can earn if they interact with the NPC enough.
