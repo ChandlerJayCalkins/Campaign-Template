@@ -626,6 +626,8 @@ Selling a magic item is by no means an easy task. Con artists and thieves are al
 
 ***Resolution.*** A character who wants to sell an item must make a Charisma (Persuasion) check to determine what kind of offer comes in. The character can always opt not to sell, instead forfeiting the workweek of effort and trying again later. Use the Magic Item Base Prices and Magic Item Offer tables to determine the sale price.
 
+Spell scrolls and other consumable items are priced differently. The base price of spell scrolls are twice what is costs to make them. You can find the costs of making spell scrolls in the Spell Scroll Costs table in the [Scribing a Spell Scroll](#scribing-a-spell-scroll) activity. The base prices of other consumable items are halved.
+
 **Magic Item Base Prices**
 | Rarity | Base Price* |
 | --- | --- |
