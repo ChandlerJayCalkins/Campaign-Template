@@ -18,7 +18,7 @@ Deviations from the MM stat block. Common Changes:
 Description of how the character looks, smells, sounds, feels, etc. Don't go into too much detail.
 
 # Motivations
-Unique desires and needs that influence this character's actions
+Unique desires and needs that influence this character's actions.
 
 ## Behavior
 Mannerisms, personality, and common behaviors of the character.
