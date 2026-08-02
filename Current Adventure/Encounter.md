@@ -31,6 +31,7 @@ One sentence describing the encounter.
 - **Players:**
 	- Level X (x2)
 	- Level Y (x3)
+- **XP Budget:** X
 - **Enemies**
 	- [NPC](https://5e.tools/bestiary.html#commoner_xmm) (x2) (Y XP each)
 - **Total XP:** X
