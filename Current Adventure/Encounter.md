@@ -1,6 +1,12 @@
 ## Outline
 One sentence describing the encounter.
 
+**Goal:** 
+<br>
+**Challenge:** 
+<br>
+**Reward:** 
+
 ## Rendering
 **Starting Situation**
 - What the players sense
