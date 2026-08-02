@@ -29,8 +29,8 @@ One sentence describing the encounter.
 ## Combat
 - **Intended Difficulty:** Low, moderate, or deadly
 - **Players:**
-	- Level X (x2) X XP (X XP each)
-	- Level Y (x3) X XP (X XP each)
+	- Level X (x2) (X XP) (X XP each)
+	- Level Y (x3) (X XP) (X XP each)
 - **XP Budget:** X
 - **Enemies**
 	- [NPC](https://5e.tools/bestiary.html#commoner_xmm) (x2) (X XP) (Y XP each)
