@@ -1,0 +1,7 @@
+- **[Name](https://5e.tools/bestiary.html#commoner_xmm)**
+	- *Alterations.* List any stat block changes here.
+	- *Description.* Appearance, what they're currently doing, behavior, what they do for a living, etc.
+	- *Desires.* Motivations for the PCs to exploit to get what they want.
+	- *Items.*
+		- Something (X lbs)
+		- Thingamabob (Y oz)

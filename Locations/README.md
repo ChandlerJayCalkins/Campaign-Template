@@ -1,0 +1,1 @@
+This folder is for saving locations that the players might return to in another adventure.

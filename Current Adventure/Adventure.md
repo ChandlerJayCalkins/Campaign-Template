@@ -1,22 +1,23 @@
-## Outline
+# Outline
 Premise of the adventure.
 
-**Goal:** 
-<br>
-**Challenges:** 
-<br>
-**Rewards:** 
+***Main Goal.*** What objective are the PCs here to accomplish?
 
-## Hook
-Draw in the players.
+***Main Challenges.*** What is the primary force preventing the players from achieving the main goal?
 
-## Encounters
-1. Summary of first encounter (The Blocked Entrance).
-2. Summary of second encounter (The Puzzle).
-3. Summary of third encounter (The setback).
-4. Summary of fourth encounter (The Climax).
-5. Summary of fifth encounter (The wildcard).
-6. etc.
+***Main Rewards.*** Why do the players want to complete the main goal?
 
-## Epilogue
+# Hook
+Draw in the PCs.
+
+# Settlement(s)
+Where the PCs will be able to stay as a safe haven.
+
+# Wilds
+The dangerous locations that the PCs must go back and forth through to travel between the settlement and the dungeon.
+
+# Dungeon
+The focal point of danger and treasure where the main goal of the adventure lies.
+
+# Epilogue
 Bring it to an end.

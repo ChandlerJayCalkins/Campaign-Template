@@ -1,1 +1,0 @@
-This folder is for sheets that track / inform about things like bastions, settlements, NPCs, etc.
