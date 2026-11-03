@@ -81,11 +81,11 @@ How players are able to obtain what they need in the environment, like safe / co
 # Zones & Encounters
 1. ***Zone A.*** Short description of a zone of the wilds.
 	1. *[Social Encounter Name.](#social-encounter-name)* Short description of an encounter in this zone.
-	2. *[Puzzle Name.](#puzzle-name)* TODO
+	2. *[Puzzle Name.](#puzzle-name)* ?
 	3. etc.
-2. ***Zone B.*** TODO
-	1. *[Trap Name.](#trap-name)* TODO
-	2. *[Combat Encounter Name.](#combat-encounter-name)* TODO
+2. ***Zone B.*** ?
+	1. *[Trap Name.](#trap-name)* ?
+	2. *[Combat Encounter Name.](#combat-encounter-name)* ?
 	3. etc.
 3. etc.
 

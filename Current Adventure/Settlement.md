@@ -20,22 +20,22 @@ Details about this safe haven for the PCs. The environment around the settlement
 # Zones, Notable Locations, & Encounters
 1. ***Zone A.*** Short description of this part of the settlement
 	1. ***Fort.*** Short description of this location.
-	2. ***Stables / Farrier.*** TODO
-	3. ***[Undertaker.](#undertaker)*** TODO
+	2. ***Stables / Farrier.*** ?
+	3. ***[Undertaker.](#undertaker)*** ?
 		1. *[Puzzle Name.](#puzzle-name)* Short description of an encounter at this location.
 	4. ***Farm.*** Short description, and what these farms produce.
-	5. ***Water Source.*** TODO
-2. ***Zone B.*** TODO
-	1. ***[Tavern.](#tavern)*** TODO
-		1. *[Social Encounter Name.](#social-encounter-name)* TODO
-	2. ***[Market.](#market)*** TODO
-	3. ***[Trading Post.](#trading-post)*** TODO
-	4. ***[Specialty Shop.](#specialty-shop)*** TODO
-3. ***Zone C.*** TODO
-	1. ***[Jailhouse.](#jailhouse)*** TODO
-		1. *[Trap Name.](#trap-name)* TODO
-		2. *[Combat Encounter Name](#combat-encounter-name).* TODO
-	2. ***[Manor / Government Building](#manor).*** TODO
+	5. ***Water Source.*** ?
+2. ***Zone B.*** ?
+	1. ***[Tavern.](#tavern)*** ?
+		1. *[Social Encounter Name.](#social-encounter-name)* ?
+	2. ***[Market.](#market)*** ?
+	3. ***[Trading Post.](#trading-post)*** ?
+	4. ***[Specialty Shop.](#specialty-shop)*** ?
+3. ***Zone C.*** ?
+	1. ***[Jailhouse.](#jailhouse)*** ?
+		1. *[Trap Name.](#trap-name)* ?
+		2. *[Combat Encounter Name](#combat-encounter-name).* ?
+	2. ***[Manor / Government Building](#manor).*** ?
 
 # Undertaker
 ***Description.*** Details about this place.
