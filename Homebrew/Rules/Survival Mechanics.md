@@ -35,7 +35,7 @@ If a character successfully kills or captures a fauna, the Fauna Tracking table 
 | Barrel | 1 gallon per 1d6 hours | 2d12 gallons per hour |
 | Chest | 1d3 gallons per hour | 1d10 x 3 gallons per hour |
 | Waterskin | Full in 1d12 hours | Full in 1d6 x 10 minutes |
-| Backpack (Watertight), Bucket, Iron Pot, Jug | 1 gallon per 1d12 hours | 2d6 gallons per hour |
+| Backpack, Bucket, Iron Pot, Jug | 1 gallon per 1d12 hours | 2d6 gallons per hour |
 | Case, Flask, Glass Bottle, Pouch, Quiver, Sack, Vial | Full in 1d6 x 10 minutes | Full in 1d10 minutes |
 
 ## Poison Food & Water
