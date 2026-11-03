@@ -1,1 +1,2 @@
+# Past Adventures
 This folder is for storing folders of adventures that are already completed for archiving purposes.

@@ -1,4 +1,8 @@
+# Adventure Template
 This folder is for files that make up the current adventure being ran.
+The template files in here use the SWAD (Settlement, Wilds, and Dungeon) framework for an adventure.
+If you use the SWAD framework, be sure to also use the Alt Rest Healing Rules and the Survival Mechanics Rules in Homebrew/Rules.
+The Downtime and Non-Combat Encounter XP Rules are also encouraged.
 
 # Steps to Making an Adventure with This Template
 1. Think of the outline of the adventure.

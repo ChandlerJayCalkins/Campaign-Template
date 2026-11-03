@@ -1,4 +1,5 @@
 # Magic Item Tracker
+Place to keep track of how many magic items you've given the players, along with expected amounts for each tier of play from the 2024 DMG.
 
 ## Levels 1-4
 **Common:** 0 / 6
