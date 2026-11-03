@@ -50,14 +50,15 @@ How players are able to obtain what they need in the environment, like safe / co
 | 8-11 | Stream | 5 % |
 | 12 | Creek / Stream Waterfall | 2 % |
 
-***Collecting Rain Water.*** Different equipment can be used to collect rainwater. The amount of rainwater they can collect in a certain amount of time is determined by the level of rainfall occurring (either moderate or heavy) and a die roll based on the table below. Equipment can only be used to collect rainwater if it is made of a watertight material, otherwise the water leaks out of the bottom. If rainwater is being collected with a piece of equipment not listed on this table, you can use a similar piece of equipment on the table to determine how much rainwater it collects.
+***Collecting Rain Water.*** Various pieces of equipment can be used to collect rainwater. The amount of rainwater that can be collected by a piece of equipment in a certain amount of time is determined by the level of rainfall occurring (moderate or heavy) and a die roll based on the piece of equipment in the table below. If rainwater is being collected with a piece of equipment not listed on this table, you can use a similar piece of equipment on the table to determine how much rainwater it collects. Equipment that has an opening with a larger surface area collects rainwater at a faster rate. Equipment can only be used to collect rainwater if it is made of a watertight material, otherwise the water leaks out and can't be held in.
 
 | Equipment | Moderate Rainfall | Heavy Rainfall |
 |-|-|-|
-| Backpack (Watertight), Bucket, Iron Pot, Jug | 1 gallon per 1d12 hours | 2d6 gallons per hour |
 | Barrel | 1 gallon per 1d6 hours | 2d12 gallons per hour |
 | Chest | 1d3 gallons per hour | 1d10 x 3 gallons per hour |
-| Case, Flask, Glass Bottle, Pouch, Quiver, Sack, Vial, Waterskin | - | Full in 1d12 hours |
+| Waterskin | Full in 1d12 hours | Full in 1d6 x 10 minutes |
+| Backpack (Watertight), Bucket, Iron Pot, Jug | 1 gallon per 1d12 hours | 2d6 gallons per hour |
+| Case, Flask, Glass Bottle, Pouch, Quiver, Sack, Vial | Full in 1d6 x 10 minutes | Full in 1d10 minutes |
 
 ## Poison Food & Water
 ***Detecting if Food is Poison.*** Search action at the food source, Wisdom (Medicine) DC 18.
