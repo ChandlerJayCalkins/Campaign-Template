@@ -69,7 +69,7 @@ Details about this safe haven for the PCs. The environment around the settlement
 - etc.
 
 ***Skill Checks.***
-- **Action**. Description of the action, Ability (Skill) DC X
+- **Action.** Description of the action, Ability (Skill) DC X
 	- *Success.* Result
 	- *Failure.* Result
 
@@ -102,7 +102,7 @@ Details about this safe haven for the PCs. The environment around the settlement
 - Name (refer to NPCs section for this location)
 
 ***Skill Checks.***
-- **Action**. Description of the action, Ability (Skill) DC X
+- **Action.** Description of the action, Ability (Skill) DC X
 	- *Success.* Result
 	- *Failure.* Result
 
@@ -226,7 +226,7 @@ Details about this safe haven for the PCs. The environment around the settlement
 		- Thingamabob (Y oz)
 
 ***Skill Checks.***
-- **Action**. Description of the action, Ability (Skill) DC X
+- **Action.** Description of the action, Ability (Skill) DC X
 	- *Success.* Result
 	- *Failure.* Result
 

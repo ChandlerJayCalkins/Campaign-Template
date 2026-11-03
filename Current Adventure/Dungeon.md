@@ -42,7 +42,7 @@ Creatures in each zone that the PCs may encounter, what they're doing here, wher
 		- Thingamabob (Y oz)
 
 ***Skill Checks.***
-- **Action**. Description of the action, Ability (Skill) DC X
+- **Action.** Description of the action, Ability (Skill) DC X
 	- *Success.* Result
 	- *Failure.* Result
 
@@ -61,7 +61,7 @@ Creatures in each zone that the PCs may encounter, what they're doing here, wher
 - etc.
 
 ***Skill Checks.***
-- **Action**. Description of the action, Ability (Skill) DC X
+- **Action.** Description of the action, Ability (Skill) DC X
 	- *Success.* Result
 	- *Failure.* Result
 
@@ -110,7 +110,7 @@ Creatures in each zone that the PCs may encounter, what they're doing here, wher
 		- Thingamabob (Y oz)
 
 ***Skill Checks.***
-- **Action**. Description of the action, Ability (Skill) DC X
+- **Action.** Description of the action, Ability (Skill) DC X
 	- *Success.* Result
 	- *Failure.* Result
 

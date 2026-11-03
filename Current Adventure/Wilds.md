@@ -104,7 +104,7 @@ How players are able to obtain what they need in the environment, like safe / co
 		- Thingamabob (Y oz)
 
 ***Skill Checks.***
-- **Action**. Description of the action, Ability (Skill) DC X
+- **Action.** Description of the action, Ability (Skill) DC X
 	- *Success.* Result
 	- *Failure.* Result
 
@@ -123,7 +123,7 @@ How players are able to obtain what they need in the environment, like safe / co
 - etc.
 
 ***Skill Checks.***
-- **Action**. Description of the action, Ability (Skill) DC X
+- **Action.** Description of the action, Ability (Skill) DC X
 	- *Success.* Result
 	- *Failure.* Result
 
@@ -172,7 +172,7 @@ How players are able to obtain what they need in the environment, like safe / co
 		- Thingamabob (Y oz)
 
 ***Skill Checks.***
-- **Action**. Description of the action, Ability (Skill) DC X
+- **Action.** Description of the action, Ability (Skill) DC X
 	- *Success.* Result
 	- *Failure.* Result
 
