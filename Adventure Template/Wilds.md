@@ -1,22 +1,70 @@
 # Description
-Detailed information about the focal point of danger and rewards where the main goal of the adventuer lies. This may include:
+Detailed information about the dangerous locations that the PCs must go back and forth through to travel between the settlement and the dungeon. This may include:
 - History
 - Key landmarks
-- The inhabitants of the dungeon
+- The inhabitants of these locations
 - etc.
 
 # Environment
-*Moderate/Hostile Dungeon (Levels A-B)*
+*Moderate/Hostile Environment (Levels A-B)*
 
 ***Effects.***
-Any passive or non-passive effects on creatures, items, or magic from the dungeon in any of the zones.
+Any passive or non-passive effects on creatures, items, or magic from the environment in any of the zones.
 
 ***Inhabitants.***
 Creatures in each zone that the PCs may encounter, what they're doing here, where they live, and how they sustain themselves.
 
+***Climate.***
+Liklihood of certain weather depending on the time of year, and dice rolls to determine the weather.
+
+***Flora.***
+Plants that might be useful.
+
+#### Flora Information
+| Plant | Identify DC | Description |
+|-|-|-|
+| Brush Berry | 10 | Appearance, where it's found, consumption effects, uses, dangers, etc. |
+| Nizzletip | 12 | ? |
+
+#### Flora Foraging Results
+| Plant | Tier 1 DC | Tier 1 Harvest | Tier 2 DC | Tier 2 Harvest | Tier 3 DC | Tier 3 Harvest |
+|-|-|-|-|-|-|-|
+| Brush Berry | 5 | 1d4 oz | 10 | 1d4 + 4 oz | 15 | 1d8 + 8 oz |
+| Nizzletip | 8 | 1 piece | 13 | 1d4 + 1 pieces | 18 | 1d4 + 5 pieces |
+
+***Fauna.***
+Animals in the area.
+
+#### Fauna Tracking
+| Fauna | Tracking DC | Passive Perception | Chance of Poison | Harvest |
+|-|-|-|-|-|
+| [Deer](https://5e.tools/bestiary.html#deer_xmm) | 13 | 14 | 2 % | 50 rations (meat), 10 lbs of skin, 4 lbs of antlers |
+| [Crab](https://5e.tools/bestiary.html#crab_xmm) | 11 | 9 | 8 % | 1 ration (meat), crab chitin |
+
+***Water.***
+Water sources that characters might encounter.
+
+#### Water Source Types
+| d12 | Water Source | Chance of Poison |
+|-|-|-|
+| 1-3 | Pond | 30 % |
+| 4-7 | Creek | 10 % |
+| 8-11 | Stream | 5 % |
+| 12 | Creek / Stream Waterfall | 2 % |
+
+***Shelter.***
+Places where players can seek shelter from the elements.
+
+# Navigation Mechanic
+How you determine what encounters the PCs face while they are in the wilds. This could be:
+- A dice roll of random encounters (for various situations such as while traveling, while resting, or while in certain areas).
+- A graph where each node is a location (or encounter) and the PCs choose which directions to go.
+- A map where PCs choose cardinal directions to traverse (but can only see if they cartograph the area or buy a map).
+- PCs describing a location / direction they want to go to and making a survival check to determine if they end up there or somewhere else.
+
 # Zones & Encounters
-1. ***Zone A.*** Short description of a zone of the dungeon, possibly a floor or an entire building.
-	1. *[Social Encounter Name.](#social-encounter-name)* Short description of an encounter / room in this zone.
+1. ***Zone A.*** Short description of a zone of the wilds.
+	1. *[Social Encounter Name.](#social-encounter-name)* Short description of an encounter in this zone.
 	2. *[Puzzle Name.](#puzzle-name)* ?
 	3. etc.
 2. ***Zone B.*** ?
@@ -26,6 +74,13 @@ Creatures in each zone that the PCs may encounter, what they're doing here, wher
 3. etc.
 
 # Encounters
+
+## Random Combat Encounters
+| d12 | Encounter |
+|-|-|
+| 1 | ? |
+| 2 | ? |
+| ...
 
 ## Social Encounter Name
 *Normal/Risky Social Encounter (Levels A-B) (X XP)*
