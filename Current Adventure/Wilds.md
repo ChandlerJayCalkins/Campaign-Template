@@ -64,7 +64,7 @@ How players are able to obtain what they need in the environment, like safe / co
 - *Success.* Can tell if the food source is poison or not.
 - *Failure.* Cannot see any evidence of the food source being poison.
 
-***Finding a Clean Spot to Collect Water from a Water Source.*** Search action at the water source, Wisdom (Survival) DC 16.
+***Finding a Clean Spot to Collect Water.*** Search action at a water source, Wisdom (Survival) DC 16.
 - *Success.* Find a safe spot to collect clean water from the water source. Chance of water being poison when collecting from that spot is lowered by half.
 - *Failure.* Cannot tell where a safe spot to collect clean water from the water source is.
 
