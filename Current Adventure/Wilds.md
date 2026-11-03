@@ -33,10 +33,10 @@ How you determine what encounters the PCs face while they are in the wilds. This
 # Survival Mechanics
 How players are able to obtain what they need in the environment, like safe / comfortable shelter, food, clean water, potion ingredients, etc.
 
-## Food
-***Foraging for Food.*** TODO
+## Food & Ingredients
+***Foraging.*** TODO
 
-***Hunting for Food.*** TODO
+***Hunting.*** TODO
 
 ## Water
 ***Finding a Water Source.*** Search action in the environment, Wisdom (Survival) DC 10 ability check.
@@ -75,9 +75,6 @@ How players are able to obtain what they need in the environment, like safe / co
 
 ## Shelter
 ***Finding Shelter.*** TODO
-
-## Potion Ingredients
-***Finding Potion Ingredients.*** TODO
 
 # Zones & Encounters
 1. ***Zone A.*** Short description of a zone of the wilds.

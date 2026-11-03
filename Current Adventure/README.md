@@ -9,16 +9,13 @@ This folder is for files that make up the current adventure being ran.
 	- Settlement.md
 	- Wilds.md
 	- Dungeon.md
-4. Come up with all of the locations and encounters for the settlement, wilds, and dungeon.
+4. Come up with the Navigation and Survival mechanics of the wilds.
+	- Wilds.md
+5. Come up with all of the locations and encounters for the settlement, wilds, and dungeon.
 	- Settlement.md
 	- Wilds.md
 	- Dungeon.md
-5. Fill out the details for each location and encounter.
-	- Settlement.md
-	- Wilds.md
-	- Dungeon.md
-6. Review each part of the entire adventure and make revisions.
-	- Adventure.md
+6. Fill out the details for each location and encounter.
 	- Settlement.md
 	- Wilds.md
 	- Dungeon.md
@@ -26,3 +23,8 @@ This folder is for files that make up the current adventure being ran.
 8. Make a map of the town.
 9. Make a map of the dungeon.
 10. Make maps of each encounter where there might be combat.
+11. Review each part of the entire adventure and make revisions.
+	- Adventure.md
+	- Settlement.md
+	- Wilds.md
+	- Dungeon.md
