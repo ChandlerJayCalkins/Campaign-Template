@@ -1,6 +1,6 @@
 # Alternative Rest Healing Rules
 These rules redefine how PCs regain Hit Points from Short and Long Rests. It is meant to fairly reduce the amount of Hit Points PCs can regain from resting for the purpose of:
-1. Encouraging resource management of food, water, and other supplies in multi-day adventures.
+1. Encouraging players to put more effort into managing their resources, such as food, water, and other supplies, in multi-day adventures.
 2. Being more realistic in regards to how long it takes people to heal.
 
 # Summary of Changes

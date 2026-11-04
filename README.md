@@ -9,6 +9,7 @@ Template for Organizing D&D 5e Campaigna with Markdown Files.
 - ***[Ideas](/Ideas/)***. Folder for random ideas that you might use.
 - ***[Journal](/Journal/)***. Folder for your journal entries of each session.
 - ***[Locations](/Locations/)***. Folder for keeping locations that your characters are likely to return to.
+- ***[Lore](/Lore/)***. Folder for keeping lore about your setting so you can reference it.
 - ***[Media](/Media/)***. Folder for maps, handouts, tokens, and other media you use.
 - ***[NPCs](/NPCs/)***. Folder for keeping NPC sheets that your characters are likely to encounter again.
 - ***[Past Adventures](/Past%20Adventures/)***. Folder for storing your past adventures so you can refer back to them.

@@ -1,2 +1,2 @@
 # Media
-This folder is for storing things like battlemap tokens, handouts, and maps.
+This folder is for storing pieces of media you use like maps, battle tokens, and handouts.

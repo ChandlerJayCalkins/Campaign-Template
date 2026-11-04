@@ -1,5 +1,5 @@
 # Survival Mechanics
-How players are able to obtain what they need in the environment, like safe / comfortable shelter, food, clean water, potion ingredients, etc.
+These rules define how players are able to obtain things that they need in the environment, like safe / comfortable shelter, food, clean water, potion ingredients, etc. It also uses poison mechanics to introduce an extra challenge to surviving in the wild and to make poison a more common mechanic.
 
 ## Food & Ingredients
 ***Foraging.*** A Search action is taken in the environment for 1 hour, Wisdom (Survival) DC determined by Flora Foraging Results table in the Environment section of a stage.
