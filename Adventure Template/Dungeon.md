@@ -22,7 +22,8 @@ Creatures in each zone that the PCs may encounter, what they're doing here, wher
 2. ***Zone B.*** ?
 	1. *[Trap Name.](#trap-name)* ?
 	2. *[Combat Encounter Name.](#combat-encounter-name)* ?
-	3. etc.
+	3. *[Treasure Room Name](#treasure-room-name)* ?
+	4. etc.
 3. etc.
 
 # Encounters
@@ -136,3 +137,12 @@ Roll for a random encounter whenever:
 
 ***Items.***
 - Any items not on a creature that the PCs may want to loot.
+
+## Treasure Room Name
+*Treasure for levels A-B*
+
+***Description.*** Describe what it looks like in this place and any special details about the treasure here.
+
+***Items.***
+- Something (X lbs)
+- Thingamabob (Y oz)
