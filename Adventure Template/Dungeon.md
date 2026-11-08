@@ -27,7 +27,9 @@ Creatures in each zone that the PCs may encounter, what they're doing here, wher
 
 # Encounters
 
-## Random Combat Encounters
+## Random Encounters
+Roll for a random encounter for every X minutes / hours the PCs spend in the dungeon, and whenever the PCs try to long rest in the dungeon. Also have a small chance for a random encounter whne the PCs are short resting in the dungeon.
+
 | d12 | Encounter |
 |-|-|
 | 1 | ? |

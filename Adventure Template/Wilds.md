@@ -75,7 +75,9 @@ How you determine what encounters the PCs face while they are in the wilds. This
 
 # Encounters
 
-## Random Combat Encounters
+## Random Encounters
+Roll for a random encounter for every X miles the PCs travel in the wilds, and have a small chance for a random encounter to happen when they are long resting in the wilds.
+
 | d12 | Encounter |
 |-|-|
 | 1 | ? |
