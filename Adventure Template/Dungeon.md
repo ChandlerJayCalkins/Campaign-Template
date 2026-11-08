@@ -29,10 +29,7 @@ Creatures in each zone that the PCs may encounter, what they're doing here, wher
 # Encounters
 
 ## Random Encounters
-Roll for a random encounter whenever:
-- The PCs take along rest in the dungeon
-- The PCs spend T minutes in the dungeon (X % chance)
-- The PCs take a short rest in the dungeon (X % chance)
+For every 1 hour the PCs spend in the dungeon, roll a d6. On a 1, a random encounter happens. Roll on the random encounter table for the zone they're in to determine what they encounter. Whenever the PCs spend a dungeon turn making loud noises, increase the number required for an encounter to happen on a d6 roll by 1. This number resets if the PCs leave the dungeon and take a long rest, or if 8 hours go by without the number increasing.
 
 ### Zone A
 | d12 | Encounter |

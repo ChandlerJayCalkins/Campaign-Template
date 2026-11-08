@@ -77,9 +77,16 @@ How you determine what encounters the PCs face while they are in the wilds. This
 # Encounters
 
 ## Random Encounters
-Roll for a random encounter whenever:
-- The PCs take along rest in the wilds (X % chance)
-- The PCs travel D miles through the wilds (X % chance)
+Whenever the PCs travel 3 miles through the wilds, roll a d100 and use the Random Encounter Chance table to determine if an encounter happens based on the pace the PCs traveled that distance at. If you roll the % Chance of Encounter value for the pace they were traveling at or lower, a random encounter happens. Roll on the random encounter table for the zone the PCs are in to determine what they encounter.
+
+### Random Encounter Chance
+| Pace | % Chance of Encounter |
+|-|-|
+| Slow | 4 % |
+| Normal | 8 % |
+| Fast | 12 % |
+
+Whenever the PCs take a long rest in the wilds, roll a d100. If the players leave some kind of trackable sign of their presence up like light, smoke from a fire, or noise, a random encounter happens on a roll of 10 or lower. If the players leave no trackable sign of their presence up during their long rest, a random encounter happens on a roll of 2 or lower.
 
 ### Zone A
 | d12 | Encounter |
