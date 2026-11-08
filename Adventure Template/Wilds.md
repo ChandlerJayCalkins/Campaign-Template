@@ -88,10 +88,10 @@ Roll for a random encounter whenever:
 | ... |
 
 ### Zone B
-| d100 | Encounter |
+| 2d6 | Encounter |
 |-|-|
-| 1-8 | ? |
-| 9-20 | ? |
+| 2 | ? |
+| 3 | ? |
 | ... |
 
 ## Social Encounter Name
