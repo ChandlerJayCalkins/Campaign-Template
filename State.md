@@ -6,6 +6,8 @@ Keeps track of the current state of the campaign.
 
 ***Time.*** 12:00
 
+***Last Long Rest.*** 08:00
+
 ***Location.*** Here
 
 ***Weather.*** Sunny
