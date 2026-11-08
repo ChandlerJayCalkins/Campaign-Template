@@ -76,13 +76,23 @@ How you determine what encounters the PCs face while they are in the wilds. This
 # Encounters
 
 ## Random Encounters
-Roll for a random encounter for every X miles the PCs travel in the wilds, and have a small chance for a random encounter to happen when they are long resting in the wilds.
+Roll for a random encounter whenever:
+- The PCs take along rest in the wilds (X % chance)
+- The PCs travel D miles through the wilds (X % chance)
 
+### Zone A
 | d12 | Encounter |
 |-|-|
 | 1 | ? |
 | 2 | ? |
-| ...
+| ... |
+
+### Zone B
+| d100 | Encounter |
+|-|-|
+| 1-8 | ? |
+| 9-20 | ? |
+| ... |
 
 ## Social Encounter Name
 *Normal/Risky Social Encounter (Levels A-B) (X XP)*
