@@ -1,3 +1,6 @@
 # Renders of markdown docs
 *.pdf
 *.html
+
+# Obsidian settings
+.obsidian/
