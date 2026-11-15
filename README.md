@@ -1,5 +1,5 @@
 # Campaign-Template
-Template for Organizing D&D 5e Campaigna with Markdown Files.
+Template for Organizing D&D 5e Campaigns with Markdown Files.
 
 # Directory
 - ***[Adventure Template](/Adventure%20Template/README.md).*** Template files for creating a SWAD (Settlement, Wilds, and Dungeon) adventure.
