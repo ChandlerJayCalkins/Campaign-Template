@@ -42,7 +42,7 @@ Animals in the area.
 | [Crab](https://5e.tools/bestiary.html#crab_xmm) | 11 | 9 | 8 % | 1 ration (meat), crab chitin |
 
 ***Water.***
-Water sources that characters might encounter.
+Water sources that characters might encounter. ***Finding a Water Source.*** DC 10, takes 1d4 hours on a success, 4 hours on a failure.
 
 #### Water Source Types
 | d12 | Water Source | Chance of Poison |
@@ -53,7 +53,14 @@ Water sources that characters might encounter.
 | 12 | Creek / Stream Waterfall | 2 % |
 
 ***Shelter.***
-Places where players can seek shelter from the elements.
+Places where players can seek shelter from the elements. ***Finding Shelter.*** DC 10, takes 1d4 hours on a success, 4 hours on a failure.
+#### Water Source Types
+| d12   | Shelter Type      | Max Occupancy                  |
+| ----- | ----------------- | ------------------------------ |
+| 1-6   | Cliff Overhang    | 4d6                            |
+| 7-9   | Cave              | 4d12 Medium or Small Creatures |
+| 10-11 | Hollowed out Tree | 1d4 Medium or Small Creatures  |
+| 12    | Abandoned Hut     | 4d4                            |
 
 # Navigation Mechanic
 How you determine what encounters the PCs face while they are in the wilds. This could be:

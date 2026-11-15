@@ -2,6 +2,8 @@
 These rules define how players are able to obtain things that they need in the environment, like safe / comfortable shelter, food, clean water, potion ingredients, etc. It also uses poison mechanics to introduce an extra challenge to surviving in the wild and to make poison a more common mechanic.
 
 ## Food & Ingredients
+Most creatures need food to survive, and sometimes creatures don't have all the ingredients they need to craft something they're trying to craft, such as special plants for a potion. PCs may attempt to obtain food or ingredients from the environment while they are out in the wilds to avoid having to travel all the way to a settlement, or to avoid having to pay for those items.
+
 ***Foraging.*** A Search action is taken in the environment for 1 hour, Wisdom (Survival) DC determined by Flora Foraging Results table in the Environment section of a stage.
 
 The result of this ability check determines which flora the character taking this action encounters and how much of each kind of flora they encounter. The character chooses how much of each flora they harvest up to the maximum amount they encounter, but they must have a way to carry it all.
@@ -23,9 +25,11 @@ If the character fails this ability check, they are unable to locate the fauna a
 If a character successfully kills or captures a fauna, the Fauna Tracking table lists what can be harvested from it. When consumable items are harvested from the fauna, roll a d100 and use the corresponding chance of poison for that fauna to determine if the consumable items from it are poison.
 
 ## Water
+Most creatures need to drink water to survive, and water can be used for many other things. PCs may attempt to search for or collect water in the environment while they are in the wilds to avoid having to travel all the way to a settlement.
+
 ***Finding a Water Source.*** Search action in the environment, Wisdom (Survival) DC determined by the Environment section of a stage.
-- *Success.* A water source is successfully found after some number of hours determined by the Environment section of a stage. Roll the specified die from the Water Source Type table in the Environment section for that stage to determine the type of water source found. Then, whenever a creature collects water from that water source, roll a d100 and use the corresponding chance of poison for that water source to determine if the water they collected is poison.
-- *Failure.* After 6 hours of searching, no water source is found.
+- *Success.* A water source is successfully found after some number of hours determined by the Environment section of the stage. Roll on the Water Source Type table in the Environment section for that stage to determine the type of water source found. Then, whenever a creature collects water from that water source, roll a d100 and use the corresponding chance of poison for that water source to determine if the water they collected is poison.
+- *Failure.* After some number of hours determined by the environment section of the stage, no water source is found.
 
 ***Collecting Rain Water.*** Various pieces of equipment can be used to collect rainwater. The amount of rainwater that can be collected by a piece of equipment in a certain amount of time is determined by the level of rainfall occurring (moderate or heavy) and a die roll based on the piece of equipment in the Rainwater Collection Rates table below. If rainwater is being collected with a piece of equipment not listed on this table, you can use a similar piece of equipment on the table to determine how much rainwater it collects. Equipment that has an opening with a larger surface area collects rainwater at a faster rate. Equipment can only be used to collect rainwater if it is made of a watertight material, otherwise the water leaks out and can't be held in.
 
@@ -39,6 +43,8 @@ If a character successfully kills or captures a fauna, the Fauna Tracking table 
 | Case, Flask, Glass Bottle, Pouch, Quiver, Sack, Vial | Full in 1d6 x 10 minutes | Full in 1d10 minutes |
 
 ## Poison Food & Water
+Creatures can sometimes get poisoned by consuming unhealthy food or water. If a creature attempts to identify / avoid poison, or if a creature consumes poison food or water, refer to the rules below. To determine if the food or water being consumed is poison, use the rules specific to that food or water source.
+
 ***Detecting if Flora is Poison.*** Identifying the flora with a Study action and a successful Intelligence (Nature) ability check will give a description of whether a flora is poisonous or not.
 
 ***Detecting if Meat is Poison.*** Search action at the meat, Wisdom (Medicine) DC 18.
@@ -54,4 +60,8 @@ If a character successfully kills or captures a fauna, the Fauna Tracking table 
 - *Failure.* The creature has the Poisoned condition. Each time the creature takes a Long Rest, they can make this Saving Throw again to end the Poisoned condition. If the creature consumed poison food or water again between Saving Throws to end the condition, they make the next Saving Throw with Disadvantage.
 
 ## Shelter
-***Finding Shelter.*** TODO
+Creatures may sometimes not have a safe or comfortable place to shelter themselves from the elements or other danger while they rest out in the wilds. If they attempt to locate shelter while out in the wilds, use the rules below.
+
+***Finding Shelter.*** Search action in the environment, Wisdom (Survival) DC determined by the environment section of a stage.
+- *Success.* A place to take shelter is successfully found after some number of hours determined by the Environment section of the stage. Roll on the Shelter Type table in the Environment section for that stage to determine the type of shelter found.
+- *Failure.* After some number of hours determined by the environment section of the stage, no shelter is found.
