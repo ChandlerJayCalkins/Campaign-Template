@@ -22,19 +22,19 @@ Details about this safe haven for the PCs. The environment around the settlement
 	1. ***Fort.*** Short description of this location.
 	2. ***Stables / Farrier.*** ?
 	3. ***[Undertaker.](#undertaker)*** ?
-		1. *[Puzzle Name.](#puzzle-name)* Short description of an encounter at this location.
+		1. *[Puzzle Name.](#puzzle%20name)* Short description of an encounter at this location.
 	4. ***Farm.*** Short description, and what these farms produce.
 	5. ***Water Source.*** ?
 2. ***Zone B.*** ?
 	1. ***[Tavern.](#tavern)*** ?
-		1. *[Social Encounter Name.](#social-encounter-name)* ?
+		1. *[Social Encounter Name.](#social%20encounter%20name)* ?
 	2. ***[Market.](#market)*** ?
-	3. ***[Trading Post.](#trading-post)*** ?
-	4. ***[Specialty Shop.](#specialty-shop)*** ?
+	3. ***[Trading Post.](#trading%20post)*** ?
+	4. ***[Specialty Shop.](#specialty%20shop)*** ?
 3. ***Zone C.*** ?
 	1. ***[Jailhouse.](#jailhouse)*** ?
-		1. *[Trap Name.](#trap-name)* ?
-		2. *[Combat Encounter Name](#combat-encounter-name).* ?
+		1. *[Trap Name.](#trap%20name)* ?
+		2. *[Combat Encounter Name](#combat%20encounter%20name).* ?
 	2. ***[Manor / Government Building](#manor).*** ?
 
 # Undertaker
