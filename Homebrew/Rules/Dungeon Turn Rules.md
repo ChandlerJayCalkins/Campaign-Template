@@ -1,7 +1,9 @@
 # Dungeon Turn Rules
 *Based on: [We Don't Play Dungeons Like They Used To](https://www.youtube.com/watch?v=zyl73XLJWhE)*
 
-Dungeon Turns are a way to track players' turns and keep track of time in a dungeon. They involve players taking an action on their turn, similar to they way they do in combat. A player's turn is called their Dungeon Turn, and the actions they can take are called Dungeon Actions. Dungeon Actions take 10 minutes to complete. Each round of characters taking Dungeon Actions is called a Dungeon Round. Each Dungeon Round takes 10 minutes to complete, after which players can take more Dungeon Actions. Initiative does not need to be rolled to determine a turn order for Dungeon Turns. Instead, the players can collaborate to choose who goes in which order on any given Dungeon Round. Dungeon Turns can sometimes be interrupted by encounters that require returning to standard time flow, such as combat, puzzles, or social encounters.
+Dungeon Turns are a way to track players' turns and keep track of time in a dungeon. They can be used as an alternative to the standard time keeping of rounds that combat uses.
+
+Dungeon Turns involve players taking an action on their turn, similar to they way they do in combat. A player's turn is called their Dungeon Turn, and the actions they can take are called Dungeon Actions. Dungeon Actions take approximately 10 minutes to complete. Each round of characters taking Dungeon Actions is called a Dungeon Round. Each Dungeon Round takes approximately 10 minutes to complete, after which players can take more Dungeon Actions. Initiative does not need to be rolled to determine a turn order for Dungeon Turns. Instead, the players can collaborate to choose who goes in which order on any given Dungeon Round. Dungeon Turns can sometimes be interrupted by encounters that require returning to standard time flow, such as combat, puzzles, or social encounters.
 
 Below are examples of Dungeon Actions that creatures can take on their turn in a Dungeon Turn.
 
