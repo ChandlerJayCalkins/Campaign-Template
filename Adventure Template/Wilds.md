@@ -15,7 +15,7 @@ Any passive or non-passive effects on creatures, items, or magic from the enviro
 Creatures in each zone that the PCs may encounter, what they're doing here, where they live, and how they sustain themselves.
 
 ***Climate.***
-Liklihood of certain weather depending on the time of year, and dice rolls to determine the weather.
+Likelihood of certain weather depending on the time of year, and dice rolls to determine the weather.
 
 ***Flora.***
 Plants that might be useful.
