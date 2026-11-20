@@ -51,7 +51,8 @@ For every 1 hour the PCs spend in the dungeon, roll a d6. On a 1, a random encou
 ***Description.*** Describe the situation and the goals the PCs might want to achieve from it (passage, information, assistance, etc.).
 
 ***NPCs.***
-- **[Name](https://5e.tools/bestiary.html#commoner_xmm)**
+- **Name (x1)**
+	- *Stat Block.* [Commoner](https://5e.tools/bestiary.html#commoner_xmm)
 	- *Alterations.* List any stat block changes here.
 	- *Description.* Appearance, what they're currently doing, behavior, what they do for a living, etc.
 	- *Desires.* Motivations for the PCs to exploit to get what they want.
@@ -119,7 +120,8 @@ For every 1 hour the PCs spend in the dungeon, roll a d6. On a 1, a random encou
 - *XP Per Character.* E, F, E, G
 
 ***Enemies.***
-- **[Name](https://5e.tools/bestiary.html#commoner_xmm)** (x2) (X XP each) (X XP)
+- **Name (x1)**
+	- *Stat Block.* [Commoner](https://5e.tools/bestiary.html#commoner_xmm)
 	- *Alterations.* List any stat block changes here.
 	- *Description.* Appearance, behavior, what they're doing here, etc.
 	- *Desires.* Motivations for the PCs to exploit.

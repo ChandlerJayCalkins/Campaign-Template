@@ -43,7 +43,8 @@ Details about this safe haven for the PCs. The environment around the settlement
 ***Services.*** What does this place offer?
 
 ***NPCs.***
-- **[Name](https://5e.tools/bestiary.html#commoner_xmm)**
+- **Name (x1)**
+	- *Stat Block.* [Commoner](https://5e.tools/bestiary.html#commoner_xmm)
 	- *Alterations.* List any stat block changes here.
 	- *Description.* Appearance, what they're currently doing, behavior, what they do for a living, etc.
 	- *Desires.* Motivations for the PCs to exploit to get what they want.
@@ -79,7 +80,8 @@ Details about this safe haven for the PCs. The environment around the settlement
 ***Services.*** What does this place offer?
 
 ***NPCs.***
-- **[Name](https://5e.tools/bestiary.html#commoner_xmm)**
+- **Name (x1)**
+	- *Stat Block.* [Commoner](https://5e.tools/bestiary.html#commoner_xmm)
 	- *Alterations.* List any stat block changes here.
 	- *Description.* Appearance, what they're currently doing, behavior, what they do for a living, etc.
 	- *Desires.* Motivations for the PCs to exploit to get what they want.
@@ -112,7 +114,8 @@ Details about this safe haven for the PCs. The environment around the settlement
 ***Services.*** What does this place offer?
 
 ***NPCs.***
-- **[Name](https://5e.tools/bestiary.html#commoner_xmm)**
+- **Name (x1)**
+	- *Stat Block.* [Commoner](https://5e.tools/bestiary.html#commoner_xmm)
 	- *Alterations.* List any stat block changes here.
 	- *Description.* Appearance, what they're currently doing, behavior, what they do for a living, etc.
 	- *Desires.* Motivations for the PCs to exploit to get what they want.
@@ -132,7 +135,8 @@ Details about this safe haven for the PCs. The environment around the settlement
 ***Services.*** What does this place offer?
 
 ***NPCs.***
-- **[Name](https://5e.tools/bestiary.html#commoner_xmm)**
+- **Name (x1)**
+	- *Stat Block.* [Commoner](https://5e.tools/bestiary.html#commoner_xmm)
 	- *Alterations.* List any stat block changes here.
 	- *Description.* Appearance, what they're currently doing, behavior, what they do for a living, etc.
 	- *Desires.* Motivations for the PCs to exploit to get what they want.
@@ -152,7 +156,8 @@ Details about this safe haven for the PCs. The environment around the settlement
 ***Services.*** What does this place offer?
 
 ***NPCs.***
-- **[Name](https://5e.tools/bestiary.html#commoner_xmm)**
+- **Name (x1)**
+	- *Stat Block.* [Commoner](https://5e.tools/bestiary.html#commoner_xmm)
 	- *Alterations.* List any stat block changes here.
 	- *Description.* Appearance, what they're currently doing, behavior, what they do for a living, etc.
 	- *Desires.* Motivations for the PCs to exploit to get what they want.
@@ -169,8 +174,9 @@ Details about this safe haven for the PCs. The environment around the settlement
 # Jailhouse
 ***Description.*** Details about this place.
 
-***NPCs.**
-- **[Name](https://5e.tools/bestiary.html#commoner_xmm)**
+***NPCs.***
+- **Name (x1)**
+	- *Stat Block.* [Commoner](https://5e.tools/bestiary.html#commoner_xmm)
 	- *Alterations.* List any stat block changes here.
 	- *Description.* Appearance, what they're currently doing, behavior, what they do for a living, etc.
 	- *Desires.* Motivations for the PCs to exploit to get what they want.
@@ -217,7 +223,8 @@ Details about this safe haven for the PCs. The environment around the settlement
 - *XP Per Character.* E, F, E, G
 
 ***Enemies.***
-- **[Name](https://5e.tools/bestiary.html#commoner_xmm)** (x2) (X XP each) (X XP)
+- **Name (x1)**
+	- *Stat Block.* [Commoner](https://5e.tools/bestiary.html#commoner_xmm)
 	- *Alterations.* List any stat block changes here.
 	- *Description.* Appearance, behavior, what they're doing here, etc.
 	- *Desires.* Motivations for the PCs to exploit.
@@ -234,7 +241,8 @@ Details about this safe haven for the PCs. The environment around the settlement
 ***Description.*** Details about this place.
 
 ***NPCs.***
-- **[Name](https://5e.tools/bestiary.html#commoner_xmm)**
+- **Name (x1)**
+	- *Stat Block.* [Commoner](https://5e.tools/bestiary.html#commoner_xmm)
 	- *Alterations.* List any stat block changes here.
 	- *Description.* Appearance, what they're currently doing, behavior, what they do for a living, etc.
 	- *Desires.* Motivations for the PCs to exploit to get what they want.

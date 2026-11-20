@@ -20,13 +20,15 @@ Likelihood of certain weather depending on the time of year, and dice rolls to d
 ***Flora.***
 Plants that might be useful.
 
-#### Flora Information
+**Flora Information**
+
 | Plant | Identify DC | Description |
 |-|-|-|
 | Brush Berry | 10 | Appearance, where it's found, consumption effects, uses, dangers, etc. |
 | Nizzletip | 12 | ? |
 
-#### Flora Foraging Results
+**Flora Foraging Results**
+
 | Plant | Tier 1 DC | Tier 1 Harvest | Tier 2 DC | Tier 2 Harvest | Tier 3 DC | Tier 3 Harvest |
 |-|-|-|-|-|-|-|
 | Brush Berry | 5 | 1d4 oz | 10 | 1d4 + 4 oz | 15 | 1d8 + 8 oz |
@@ -35,7 +37,8 @@ Plants that might be useful.
 ***Fauna.***
 Animals in the area.
 
-#### Fauna Tracking
+**Fauna Tracking**
+
 | Fauna | Tracking DC | Passive Perception | Chance of Poison | Harvest |
 |-|-|-|-|-|
 | [Deer](https://5e.tools/bestiary.html#deer_xmm) | 13 | 14 | 2 % | 50 rations (meat), 10 lbs of skin, 4 lbs of antlers |
@@ -44,7 +47,8 @@ Animals in the area.
 ***Water.***
 Water sources that characters might encounter. ***Finding a Water Source.*** DC 10, takes 1d4 hours on a success, 4 hours on a failure.
 
-#### Water Source Types
+**Water Source Types**
+
 | d12 | Water Source | Chance of Poison |
 |-|-|-|
 | 1-3 | Pond | 30 % |
@@ -54,7 +58,9 @@ Water sources that characters might encounter. ***Finding a Water Source.*** DC 
 
 ***Shelter.***
 Places where players can seek shelter from the elements. ***Finding Shelter.*** DC 10, takes 1d4 hours on a success, 4 hours on a failure.
-#### Water Source Types
+
+**Water Source Types**
+
 | d12   | Shelter Type      | Max Occupancy                  |
 | ----- | ----------------- | ------------------------------ |
 | 1-6   | Cliff Overhang    | 4d6                            |
@@ -87,11 +93,11 @@ How you determine what encounters the PCs face while they are in the wilds. This
 Whenever the PCs travel 3 miles through the wilds, roll a d100 and use the Random Encounter Chance table to determine if an encounter happens based on the pace the PCs traveled that distance at. If you roll the % Chance of Encounter value for the pace they were traveling at or lower, a random encounter happens. Roll on the random encounter table for the zone the PCs are in to determine what they encounter.
 
 ### Random Encounter Chance
-| Pace | % Chance of Encounter |
-|-|-|
-| Slow | 4 % |
-| Normal | 8 % |
-| Fast | 12 % |
+| Pace   | % Chance of Encounter |
+| ------ | --------------------- |
+| Slow   | 5 %                   |
+| Normal | 10 %                  |
+| Fast   | 20 %                  |
 
 Whenever the PCs take a long rest in the wilds, roll a d100. If the players leave some kind of trackable sign of their presence up like light, smoke from a fire, or noise, a random encounter happens on a roll of 10 or lower. If the players leave no trackable sign of their presence up during their long rest, a random encounter happens on a roll of 2 or lower.
 
@@ -115,7 +121,8 @@ Whenever the PCs take a long rest in the wilds, roll a d100. If the players leav
 ***Description.*** Describe the situation and the goals the PCs might want to achieve from it (passage, information, assistance, etc.).
 
 ***NPCs.***
-- **[Name](https://5e.tools/bestiary.html#commoner_xmm)**
+- **Name (x1)**
+	- *Stat Block.* [Commoner](https://5e.tools/bestiary.html#commoner_xmm)
 	- *Alterations.* List any stat block changes here.
 	- *Description.* Appearance, what they're currently doing, behavior, what they do for a living, etc.
 	- *Desires.* Motivations for the PCs to exploit to get what they want.
@@ -183,7 +190,8 @@ Whenever the PCs take a long rest in the wilds, roll a d100. If the players leav
 - *XP Per Character.* E, F, E, G
 
 ***Enemies.***
-- **[Name](https://5e.tools/bestiary.html#commoner_xmm)** (x2) (X XP each) (X XP)
+- **Name (x1)**
+	- *Stat Block.* [Commoner](https://5e.tools/bestiary.html#commoner_xmm)
 	- *Alterations.* List any stat block changes here.
 	- *Description.* Appearance, behavior, what they're doing here, etc.
 	- *Desires.* Motivations for the PCs to exploit.
