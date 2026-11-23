@@ -1,3 +1,7 @@
+1. [Description](#Description)
+2. [Zones](#Zones)
+3. [Encounters & Notable Locations](#Encounters%20&%20Notable%20Locations)
+
 # Description
 Details about this safe haven for the PCs. The environment around the settlement, what the PCs see (buildings, people, weather, etc.), a brief history of the place, what it's like to live here, what the people are like, etc.
 
@@ -17,7 +21,7 @@ Details about this safe haven for the PCs. The environment around the settlement
 
 ***Law Enforcement.*** Number of guards, judicial system, etc.
 
-# Zones, Notable Locations, & Encounters
+# Zones
 1. ***Zone A.*** Short description of this part of the settlement
 	1. ***Fort.*** Short description of this location.
 	2. ***Stables / Farrier.*** ?
@@ -37,7 +41,9 @@ Details about this safe haven for the PCs. The environment around the settlement
 		2. *[Combat Encounter Name](#combat%20encounter%20name).* ?
 	2. ***[Manor / Government Building](#manor).*** ?
 
-# Undertaker
+# Encounters & Notable Locations
+
+## Undertaker
 ***Description.*** Details about this place.
 
 ***Services.*** What does this place offer?
@@ -58,7 +64,7 @@ Details about this safe haven for the PCs. The environment around the settlement
 ***Items.***
 - Any items not on a creature that the PCs may want to loot.
 
-## Puzzle Name
+### Puzzle Name
 *Easy/Moderate/Hard Puzzle (Levels A-B) (X XP)*
 
 ***Description.*** Describe the puzzle's appearance, its purpose, and how it works.
@@ -74,7 +80,7 @@ Details about this safe haven for the PCs. The environment around the settlement
 	- *Success.* Result
 	- *Failure.* Result
 
-# Tavern
+## Tavern
 ***Description.*** Details about this place.
 
 ***Services.*** What does this place offer?
@@ -95,7 +101,7 @@ Details about this safe haven for the PCs. The environment around the settlement
 ***Items.***
 - Any items not on a creature that the PCs may want to loot.
 
-## Social Encounter Name
+### Social Encounter Name
 *Normal/Risky Social Encounter (Levels A-B) (X XP)*
 
 ***Description.*** Describe the situation and the goals the PCs might want to achieve from it (passage, information, assistance, etc.).
@@ -108,7 +114,7 @@ Details about this safe haven for the PCs. The environment around the settlement
 	- *Success.* Result
 	- *Failure.* Result
 
-# Market
+## Market
 ***Description.*** Details about this place.
 
 ***Services.*** What does this place offer?
@@ -129,7 +135,7 @@ Details about this safe haven for the PCs. The environment around the settlement
 ***Items.***
 - Any items not on a creature that the PCs may want to loot.
 
-# Trading Post
+## Trading Post
 ***Description.*** Details about this place.
 
 ***Services.*** What does this place offer?
@@ -150,7 +156,7 @@ Details about this safe haven for the PCs. The environment around the settlement
 ***Items.***
 - Any items not on a creature that the PCs may want to loot.
 
-# Specialty Shop
+## Specialty Shop
 ***Description.*** Details about this place.
 
 ***Services.*** What does this place offer?
@@ -171,7 +177,7 @@ Details about this safe haven for the PCs. The environment around the settlement
 ***Items.***
 - Any items not on a creature that the PCs may want to loot.
 
-# Jailhouse
+## Jailhouse
 ***Description.*** Details about this place.
 
 ***NPCs.***
@@ -190,7 +196,7 @@ Details about this safe haven for the PCs. The environment around the settlement
 ***Items.***
 - Any items not on a creature that the PCs may want to loot.
 
-## Trap Name
+### Trap Name
 *Nuisance/Deadly Trap (Levels A-B) (X XP)*
 
 ***Description.*** Describe the environment around the trap, and possibly bait to draw the PCs into the trap or a red herring so they don't notice it too easily.
@@ -213,7 +219,7 @@ Details about this safe haven for the PCs. The environment around the settlement
 
 ***Escape.*** How can a creature leave the trap if they've been caught in it?
 
-## Combat Encounter Name
+### Combat Encounter Name
 *Low/Moderate/Deadly Difficulty Combat Encounter (Levels A-B) (X XP)*
 
 ***Description.*** Describe the situation the enemies are in, what happens leading up to the encounter, win conditions besides killing the enemies, environmental utilities or hazards, etc.
@@ -237,7 +243,7 @@ Details about this safe haven for the PCs. The environment around the settlement
 	- *Success.* Result
 	- *Failure.* Result
 
-# Manor
+## Manor
 ***Description.*** Details about this place.
 
 ***NPCs.***

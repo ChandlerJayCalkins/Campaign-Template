@@ -1,3 +1,9 @@
+1. [Description](#Description)
+2. [Environment](#Environment)
+3. [Navigation Mechanics](#Navigation%20Mechanics)
+4. [Zones](#Zones)
+5. [Encounters](#Encounters)
+
 # Description
 Detailed information about the dangerous locations that the PCs must go back and forth through to travel between the settlement and the dungeon. This may include:
 - History
@@ -68,14 +74,14 @@ Places where players can seek shelter from the elements. ***Finding Shelter.*** 
 | 10-11 | Hollowed out Tree | 1d4 Medium or Small Creatures  |
 | 12    | Abandoned Hut     | 4d4                            |
 
-# Navigation Mechanic
+# Navigation Mechanics
 How you determine what encounters the PCs face while they are in the wilds. This could be:
 - A dice roll of random encounters (for various situations such as while traveling, while resting, or while in certain areas).
 - A graph where each node is a location (or encounter) and the PCs choose which directions to go.
 - A map where PCs choose cardinal directions to traverse (but can only see if they cartograph the area or buy a map).
 - PCs describing a location / direction they want to go to and making a survival check to determine if they end up there or somewhere else.
 
-# Zones & Encounters
+# Zones
 1. ***Zone A.*** Short description of a zone of the wilds.
 	1. *[Social Encounter Name.](#social%20encounter%20name)* Short description of an encounter in this zone.
 	2. *[Puzzle Name.](#puzzle%20name)* ?

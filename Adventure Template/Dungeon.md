@@ -1,5 +1,10 @@
+1. [Description](#Description)
+2. [Environment](#Environment)
+3. [Zones](#Zones)
+4. [Encounters](#Encounters)
+
 # Description
-Detailed information about the focal point of danger and rewards where the main goal of the adventuer lies. This may include:
+Detailed information about the focal point of danger and rewards where the main goal of the adventure lies. This may include:
 - History
 - Key landmarks
 - The inhabitants of the dungeon
@@ -14,7 +19,7 @@ Any passive or non-passive effects on creatures, items, or magic from the dungeo
 ***Inhabitants.***
 Creatures in each zone that the PCs may encounter, what they're doing here, where they live, and how they sustain themselves.
 
-# Zones & Encounters
+# Zones
 1. ***Zone A.*** Short description of a zone of the dungeon, possibly a floor or an entire building.
 	1. *[Social Encounter Name.](#social%20encounter%20name)* Short description of an encounter / room in this zone.
 	2. *[Puzzle Name.](#puzzle%20name)* ?
