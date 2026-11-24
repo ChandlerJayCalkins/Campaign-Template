@@ -220,6 +220,11 @@ Whenever the PCs take a long rest in the wilds, roll a d100. If the players leav
 
 ***Description.*** Describe what it looks like in this place and any special details about the treasure here.
 
+***Skill Checks.***
+- **Action.** Description of the action, Ability (Skill) DC X
+	- *Success.* Result
+	- *Failure.* Result
+
 ***Items.***
 - Something (X lbs)
 - Thingamabob (Y oz)

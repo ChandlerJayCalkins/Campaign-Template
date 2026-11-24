@@ -36,6 +36,7 @@ Details about this safe haven for the PCs. The environment around the settlement
 	2. ***[Market.](#market)*** ?
 	3. ***[Trading Post.](#trading%20post)*** ?
 	4. ***[Specialty Shop.](#specialty%20shop)*** ?
+		1. *[Treasure Room Name.](#Treasure%20Room%20Name)* ?
 3. ***Zone C.*** ?
 	1. ***[Jailhouse.](#jailhouse)*** ?
 		1. *[Trap Name.](#trap%20name)* ?
@@ -177,6 +178,20 @@ Details about this safe haven for the PCs. The environment around the settlement
 
 ***Items.***
 - Any items not on a creature that the PCs may want to loot.
+
+### Treasure Room Name
+*Treasure for levels A-B*
+
+***Description.*** Describe what it looks like in this place and any special details about the treasure here.
+
+***Skill Checks.***
+- **Action.** Description of the action, Ability (Skill) DC X
+	- *Success.* Result
+	- *Failure.* Result
+
+***Items.***
+- Something (X lbs)
+- Thingamabob (Y oz)
 
 ## Jailhouse
 ***Description.*** Details about this place.

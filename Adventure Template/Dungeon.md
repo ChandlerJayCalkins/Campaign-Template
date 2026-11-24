@@ -148,6 +148,11 @@ For every 1 hour the PCs spend in the dungeon, roll a d6. On a 1, a random encou
 
 ***Description.*** Describe what it looks like in this place and any special details about the treasure here.
 
+***Skill Checks.***
+- **Action.** Description of the action, Ability (Skill) DC X
+	- *Success.* Result
+	- *Failure.* Result
+
 ***Items.***
 - Something (X lbs)
 - Thingamabob (Y oz)
