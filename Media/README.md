@@ -1,2 +1,2 @@
 # Media
-This folder is for storing pieces of media you use like maps, battle tokens, and handouts.
+This folder is for storing pieces of media you plan on reusing between adventures like world maps, battle tokens, handouts, and landscapes / background images. Try to keep battle maps, one-time handouts, and other adventure / location specific media in a folder with its corresponding adventure / location. This folder is for general media that doesn't belong to a specific adventure or location.

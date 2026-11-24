@@ -22,6 +22,7 @@ Details about this safe haven for the PCs. The environment around the settlement
 ***Law Enforcement.*** Number of guards, judicial system, etc.
 
 # Zones
+[Map](Maps/Region%20Maps/Sample%20Settlement%20Map.png)
 1. ***Zone A.*** Short description of this part of the settlement
 	1. ***Fort.*** Short description of this location.
 	2. ***Stables / Farrier.*** ?
@@ -221,6 +222,7 @@ Details about this safe haven for the PCs. The environment around the settlement
 
 ### Combat Encounter Name
 *Low/Moderate/Deadly Difficulty Combat Encounter (Levels A-B) (X XP)*
+[Map](Maps/Battle%20Maps/Sample%20Battle%20Map.png)
 
 ***Description.*** Describe the situation the enemies are in, what happens leading up to the encounter, win conditions besides killing the enemies, environmental utilities or hazards, etc.
 

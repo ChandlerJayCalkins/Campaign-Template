@@ -82,6 +82,7 @@ How you determine what encounters the PCs face while they are in the wilds. This
 - PCs describing a location / direction they want to go to and making a survival check to determine if they end up there or somewhere else.
 
 # Zones
+[Map](Maps/Region%20Maps/Sample%20Region%20Map.png)
 1. ***Zone A.*** Short description of a zone of the wilds.
 	1. *[Social Encounter Name.](#social%20encounter%20name)* Short description of an encounter in this zone.
 	2. *[Puzzle Name.](#puzzle%20name)* ?
@@ -188,6 +189,7 @@ Whenever the PCs take a long rest in the wilds, roll a d100. If the players leav
 
 ## Combat Encounter Name
 *Low/Moderate/Deadly Difficulty Combat Encounter (Levels A-B) (X XP)*
+[Map](Maps/Battle%20Maps/Sample%20Battle%20Map.png)
 
 ***Description.*** Describe the situation the enemies are in, what happens leading up to the encounter, win conditions besides killing the enemies, environmental utilities or hazards, etc.
 

@@ -20,11 +20,11 @@ Any passive or non-passive effects on creatures, items, or magic from the dungeo
 Creatures in each zone that the PCs may encounter, what they're doing here, where they live, and how they sustain themselves.
 
 # Zones
-1. ***Zone A.*** Short description of a zone of the dungeon, possibly a floor or an entire building.
+1. ***Zone A ([Map](Maps/Battle%20Maps/Sample%20Battle%20Map.png)).*** Short description of a zone of the dungeon, possibly a floor or an entire building.
 	1. *[Social Encounter Name.](#social%20encounter%20name)* Short description of an encounter / room in this zone.
 	2. *[Puzzle Name.](#puzzle%20name)* ?
 	3. etc.
-2. ***Zone B.*** ?
+2. ***Zone B ([Map](Maps/Battle%20Maps/Sample%20Battle%20Map.png)).*** ?
 	1. *[Trap Name.](#trap%20name)* ?
 	2. *[Combat Encounter Name.](#combat%20encounter%20name)* ?
 	3. *[Treasure Room Name](#treasure%20room%20name)* ?
@@ -117,6 +117,7 @@ For every 1 hour the PCs spend in the dungeon, roll a d6. On a 1, a random encou
 
 ## Combat Encounter Name
 *Low/Moderate/Deadly Difficulty Combat Encounter (Levels A-B) (X XP)*
+[Map](Maps/Battle%20Maps/Sample%20Battle%20Map.png)
 
 ***Description.*** Describe the situation the enemies are in, what happens leading up to the encounter, win conditions besides killing the enemies, environmental utilities or hazards, etc.
 
