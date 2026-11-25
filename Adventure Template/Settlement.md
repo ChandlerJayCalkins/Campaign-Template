@@ -2,6 +2,7 @@
 2. [Zones](#Zones)
 3. [Encounters & Notable Locations](#Encounters%20&%20Notable%20Locations)
 
+---
 # Description
 Details about this safe haven for the PCs. The environment around the settlement, what the PCs see (buildings, people, weather, etc.), a brief history of the place, what it's like to live here, what the people are like, etc.
 
@@ -21,6 +22,7 @@ Details about this safe haven for the PCs. The environment around the settlement
 
 ***Law Enforcement.*** Number of guards, judicial system, etc.
 
+---
 # Zones
 [Map](Maps/Region%20Maps/Sample%20Settlement%20Map.png)
 1. ***Zone A.*** Short description of this part of the settlement
@@ -43,8 +45,10 @@ Details about this safe haven for the PCs. The environment around the settlement
 		2. *[Combat Encounter Name](#combat%20encounter%20name).* ?
 	2. ***[Manor / Government Building](#manor).*** ?
 
+---
 # Encounters & Notable Locations
 
+---
 ## Undertaker
 ***Description.*** Details about this place.
 
@@ -82,6 +86,7 @@ Details about this safe haven for the PCs. The environment around the settlement
 	- *Success.* Result
 	- *Failure.* Result
 
+---
 ## Tavern
 ***Description.*** Details about this place.
 
@@ -116,6 +121,7 @@ Details about this safe haven for the PCs. The environment around the settlement
 	- *Success.* Result
 	- *Failure.* Result
 
+---
 ## Market
 ***Description.*** Details about this place.
 
@@ -137,6 +143,7 @@ Details about this safe haven for the PCs. The environment around the settlement
 ***Items.***
 - Any items not on a creature that the PCs may want to loot.
 
+---
 ## Trading Post
 ***Description.*** Details about this place.
 
@@ -158,6 +165,7 @@ Details about this safe haven for the PCs. The environment around the settlement
 ***Items.***
 - Any items not on a creature that the PCs may want to loot.
 
+---
 ## Specialty Shop
 ***Description.*** Details about this place.
 
@@ -193,6 +201,7 @@ Details about this safe haven for the PCs. The environment around the settlement
 - Something (X lbs)
 - Thingamabob (Y oz)
 
+---
 ## Jailhouse
 ***Description.*** Details about this place.
 
@@ -260,6 +269,7 @@ Details about this safe haven for the PCs. The environment around the settlement
 	- *Success.* Result
 	- *Failure.* Result
 
+---
 ## Manor
 ***Description.*** Details about this place.
 

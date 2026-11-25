@@ -4,6 +4,7 @@
 4. [Zones](#Zones)
 5. [Encounters](#Encounters)
 
+---
 # Description
 Detailed information about the dangerous locations that the PCs must go back and forth through to travel between the settlement and the dungeon. This may include:
 - History
@@ -11,6 +12,7 @@ Detailed information about the dangerous locations that the PCs must go back and
 - The inhabitants of these locations
 - etc.
 
+---
 # Environment
 *Moderate/Hostile Environment (Levels A-B)*
 
@@ -74,6 +76,7 @@ Places where players can seek shelter from the elements. ***Finding Shelter.*** 
 | 10-11 | Hollowed out Tree | 1d4 Medium or Small Creatures  |
 | 12    | Abandoned Hut     | 4d4                            |
 
+---
 # Navigation Mechanics
 How you determine what encounters the PCs face while they are in the wilds. This could be:
 - A dice roll of random encounters (for various situations such as while traveling, while resting, or while in certain areas).
@@ -81,6 +84,7 @@ How you determine what encounters the PCs face while they are in the wilds. This
 - A map where PCs choose cardinal directions to traverse (but can only see if they cartograph the area or buy a map).
 - PCs describing a location / direction they want to go to and making a survival check to determine if they end up there or somewhere else.
 
+---
 # Zones
 [Map](Maps/Region%20Maps/Sample%20Region%20Map.png)
 1. ***Zone A.*** Short description of a zone of the wilds.
@@ -94,8 +98,10 @@ How you determine what encounters the PCs face while they are in the wilds. This
 	4. etc.
 3. etc.
 
+---
 # Encounters
 
+---
 ## Random Encounters
 Whenever the PCs travel 3 miles through the wilds, roll a d100 and use the Random Encounter Chance table to determine if an encounter happens based on the pace the PCs traveled that distance at. If you roll the % Chance of Encounter value for the pace they were traveling at or lower, a random encounter happens. Roll on the random encounter table for the zone the PCs are in to determine what they encounter.
 
@@ -122,6 +128,7 @@ Whenever the PCs take a long rest in the wilds, roll a d100. If the players leav
 | 3 | ? |
 | ... |
 
+---
 ## Social Encounter Name
 *Normal/Risky Social Encounter (Levels A-B) (X XP)*
 
@@ -145,6 +152,7 @@ Whenever the PCs take a long rest in the wilds, roll a d100. If the players leav
 ***Items.***
 - Any items not on a creature that the PCs may want to loot.
 
+---
 ## Puzzle Name
 *Easy/Moderate/Hard Puzzle (Levels A-B) (X XP)*
 
@@ -164,6 +172,7 @@ Whenever the PCs take a long rest in the wilds, roll a d100. If the players leav
 ***Items.***
 - Any items not on a creature that the PCs may want to loot.
 
+---
 ## Trap Name
 *Nuisance/Deadly Trap (Levels A-B) (X XP)*
 
@@ -187,6 +196,7 @@ Whenever the PCs take a long rest in the wilds, roll a d100. If the players leav
 
 ***Escape.*** How can a creature leave the trap if they've been caught in it?
 
+---
 ## Combat Encounter Name
 *Low/Moderate/Deadly Difficulty Combat Encounter (Levels A-B) (X XP)*
 [Map](Maps/Battle%20Maps/Sample%20Battle%20Map.png)
@@ -215,6 +225,7 @@ Whenever the PCs take a long rest in the wilds, roll a d100. If the players leav
 ***Items.***
 - Any items not on a creature that the PCs may want to loot.
 
+---
 ## Treasure Room Name
 *Treasure for levels A-B*
 

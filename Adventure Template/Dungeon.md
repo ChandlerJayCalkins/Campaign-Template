@@ -3,6 +3,7 @@
 3. [Zones](#Zones)
 4. [Encounters](#Encounters)
 
+---
 # Description
 Detailed information about the focal point of danger and rewards where the main goal of the adventure lies. This may include:
 - History
@@ -10,6 +11,7 @@ Detailed information about the focal point of danger and rewards where the main 
 - The inhabitants of the dungeon
 - etc.
 
+---
 # Environment
 *Moderate/Hostile Dungeon (Levels A-B)*
 
@@ -19,6 +21,7 @@ Any passive or non-passive effects on creatures, items, or magic from the dungeo
 ***Inhabitants.***
 Creatures in each zone that the PCs may encounter, what they're doing here, where they live, and how they sustain themselves.
 
+---
 # Zones
 1. ***Zone A ([Map](Maps/Battle%20Maps/Sample%20Battle%20Map.png)).*** Short description of a zone of the dungeon, possibly a floor or an entire building.
 	1. *[Social Encounter Name.](#social%20encounter%20name)* Short description of an encounter / room in this zone.
@@ -31,8 +34,10 @@ Creatures in each zone that the PCs may encounter, what they're doing here, wher
 	4. etc.
 3. etc.
 
+---
 # Encounters
 
+---
 ## Random Encounters
 For every 1 hour the PCs spend in the dungeon, roll a d6. On a 1, a random encounter happens. Roll on the random encounter table for the zone they're in to determine what they encounter. Whenever the PCs spend a dungeon turn making loud noises, increase the number required for an encounter to happen on a d6 roll by 1. This number resets if the PCs leave the dungeon and take a long rest, or if 8 hours go by without the number increasing.
 
@@ -50,6 +55,7 @@ For every 1 hour the PCs spend in the dungeon, roll a d6. On a 1, a random encou
 | 3 | ? |
 | ... |
 
+---
 ## Social Encounter Name
 *Normal/Risky Social Encounter (Levels A-B) (X XP)*
 
@@ -73,6 +79,7 @@ For every 1 hour the PCs spend in the dungeon, roll a d6. On a 1, a random encou
 ***Items.***
 - Any items not on a creature that the PCs may want to loot.
 
+---
 ## Puzzle Name
 *Easy/Moderate/Hard Puzzle (Levels A-B) (X XP)*
 
@@ -92,6 +99,7 @@ For every 1 hour the PCs spend in the dungeon, roll a d6. On a 1, a random encou
 ***Items.***
 - Any items not on a creature that the PCs may want to loot.
 
+---
 ## Trap Name
 *Nuisance/Deadly Trap (Levels A-B) (X XP)*
 
@@ -115,6 +123,7 @@ For every 1 hour the PCs spend in the dungeon, roll a d6. On a 1, a random encou
 
 ***Escape.*** How can a creature leave the trap if they've been caught in it?
 
+---
 ## Combat Encounter Name
 *Low/Moderate/Deadly Difficulty Combat Encounter (Levels A-B) (X XP)*
 [Map](Maps/Battle%20Maps/Sample%20Battle%20Map.png)
@@ -143,6 +152,7 @@ For every 1 hour the PCs spend in the dungeon, roll a d6. On a 1, a random encou
 ***Items.***
 - Any items not on a creature that the PCs may want to loot.
 
+---
 ## Treasure Room Name
 *Treasure for levels A-B*
 
