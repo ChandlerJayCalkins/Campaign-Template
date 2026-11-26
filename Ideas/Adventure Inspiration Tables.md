@@ -1,16 +1,17 @@
 # Adventure Inspiration Tables
 Tables to use to get inspiration on ways to start planning your adventures or to make your encounters more interesting.
 
-1. [Dungeon Locations](#Dungeon%20Locations)
+1. [Dungeons](#Dungeons)
 2. [Terrain](#Terrain)
 3. [Items](#Items)
 4. [NPCs](#NPCs)
-5. [Puzzle Goals](#Puzzle%20Goals)
-6. [Puzzle Mechanics](#Puzzle%20Mechanics)
+5. [Puzzles](#Puzzles)
 
-# Dungeon Locations
+---
+# Dungeons
+## Dungeon Locations
 
-| d20 | Dungeon Locations                                                                                        |
+| d20 | Dungeon Location                                                                                         |
 | --- | -------------------------------------------------------------------------------------------------------- |
 | 1   | Catacombs / Tomb / Crypt                                                                                 |
 | 2   | Cave                                                                                                     |
@@ -33,6 +34,18 @@ Tables to use to get inspiration on ways to start planning your adventures or to
 | 19  | Fantastical Anomaly (floating island, inside a giant creature's stomach, a lake you can breath in, etc.) |
 | 20  | Location in Another Plane of Existence                                                                   |
 
+## Dungeon Themes
+
+| d6  | Dungeon Theme                     |
+| --- | --------------------------------- |
+| 1   | Overrun by beasts / monstrosities |
+| 2   | Outlaw base                       |
+| 3   | Spellcaster's lair                |
+| 4   | Haunted / cursed                  |
+| 5   | Intelligent monster's lair        |
+| 6   | Enemy faction base                |
+
+---
 # Terrain
 
 | d6  | Type of Terrain                                                                                                         |
@@ -102,6 +115,7 @@ Tables to use to get inspiration on ways to start planning your adventures or to
 | 5   | Vehicle (raft across water, wagon, sleds going downhill, etc.)                                                                                                                                                                                                                                                      |
 | 6   | Escape route (water slide, ladder, trapdoor, etc.)                                                                                                                                                                                                                                                                  |
 
+---
 # Items
 
 | d8  | Type of Item                                                              |
@@ -282,6 +296,7 @@ Tables to use to get inspiration on ways to start planning your adventures or to
 | 3   | Requires something else to be used before it can be used (pull a lever, break something, activate a magic item, etc.)                           |
 | 4   | Requires you to be doing something else while using it (always moving, saying / singing silly things, raising fist, looking at something, etc.) |
 
+---
 # NPCs
 
 | d4  | NPC Function                                                                                  |
@@ -365,7 +380,9 @@ Tables to use to get inspiration on ways to start planning your adventures or to
 | 19  | Has special vision (Truesight, can see the past / future of a location / person, can scry, etc.) |
 | 20  | Can summon other creatures                                                                       |
 
-# Puzzle Goals
+---
+# Puzzles
+## Puzzle Goals
 
 | d10 | Puzzle Goal                                                                                  |
 | --- | -------------------------------------------------------------------------------------------- |
@@ -380,7 +397,7 @@ Tables to use to get inspiration on ways to start planning your adventures or to
 | 9   | Obtain a status effect that would help with something else                                   |
 | 10  | Destroy / dispose of an item correctly                                                       |
 
-# Puzzle Mechanics
+## Puzzle Mechanics
 
 | d10 | Puzzle Mechanic                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
