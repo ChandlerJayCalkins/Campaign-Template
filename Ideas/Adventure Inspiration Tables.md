@@ -10,18 +10,28 @@ Tables to use to get inspiration on ways to start planning your adventures or to
 
 # Dungeon Locations
 
-| d10 | Dungeon Locations                                                    |
-| --- | -------------------------------------------------------------------- |
-| 1   | Tomb                                                                 |
-| 2   | Cave                                                                 |
-| 3   | Temple                                                               |
-| 4   | Castle                                                               |
-| 5   | Mansion                                                              |
-| 6   | Fortress                                                             |
-| 7   | Settlement (abandoned or Inhabited by hostile creatures)             |
-| 8   | Dangerous Wilds (dark forest, evil mountain, corrupted plains, etc.) |
-| 9   | Wizard Tower                                                         |
-| 10  | Hidden Base                                                          |
+| d20 | Dungeon Locations                                                                                        |
+| --- | -------------------------------------------------------------------------------------------------------- |
+| 1   | Catacombs / Tomb / Crypt                                                                                 |
+| 2   | Cave                                                                                                     |
+| 3   | Mines                                                                                                    |
+| 4   | Monster Den / Nest / Dwelling / Home                                                                     |
+| 5   | Prison / Literal Dungeon                                                                                 |
+| 6   | Building in a City (Warehouse, inn, large store, large workshop, etc.)                                   |
+| 7   | Sewers                                                                                                   |
+| 8   | Temple / Sanctum                                                                                         |
+| 9   | Library / Archive                                                                                        |
+| 10  | Mansion                                                                                                  |
+| 11  | Tower                                                                                                    |
+| 12  | Underground Base                                                                                         |
+| 13  | Fortress                                                                                                 |
+| 14  | Castle / Palace                                                                                          |
+| 15  | Abandoned Settlement                                                                                     |
+| 16  | Dangerous Wilds (corrupt woods, evil mountain pass, haunted hill, etc.)                                  |
+| 17  | Legendary Workshop (observatory, forge, zoo, greenhouse, lab, etc.)                                      |
+| 18  | Vault                                                                                                    |
+| 19  | Fantastical Anomaly (floating island, inside a giant creature's stomach, a lake you can breath in, etc.) |
+| 20  | Location in Another Plane of Existence                                                                   |
 
 # Terrain
 
